@@ -1,5 +1,5 @@
 ## Hey there 👋
-[shxrks-video-for-the-memes](https://www.nydailynews.com/resizer/ljISzH9FSbpZxCt78yuUNNIQGWI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/YGYAXKYVQ7KJDH35FUNE6ZSQHY.gif)
+![shxrks-video-for-the-memes](https://www.nydailynews.com/resizer/ljISzH9FSbpZxCt78yuUNNIQGWI=/1200x0/top/arc-anglerfish-arc2-prod-tronc.s3.amazonaws.com/public/YGYAXKYVQ7KJDH35FUNE6ZSQHY.gif)
 ### We call ourselves 'shxrks'
 We do a lot of things! You can find more info below!
 
