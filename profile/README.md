@@ -1,12 +1,27 @@
-## Hi there 👋
+## Hey there 👋
+### We call ourselves 'shxrks'
+We do a lot of things! You can find more info below!
 
-<!--
+## What do we do?
+We like participating in certain things such as:
+Hacking (ethical),
+School Video Game hacking (legal),
+Game modding,
+Game hacking,
+and Coding!
 
-**Here are some ideas to get you started:**
+## What languages do you use?
+We use certain lang's that you can find here:
+https://shxrks.wordpress.com/langs
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## What are some of your biggest projects?
+You can find the links to them below!
+
+Kahoot hacks (not made by us): https://github.com/shxrks/kahoot-hack
+Google Snake Mods (please read the readme before using): https://github.com/shxrks/snek-hacks
+Windows 11 Without Device Req's: https://github.com/shxrks/get-windows11-without-device-requirements
+Blooket Hacks (not deving them again): https://github.com/shxrks/blooket-hacks
+Vape5 (trash crap): https://github.com/shxrks/Vape5 & https://github.com/shxrks/Vape5-libs
+Snow Client: https://github.com/shxrks/snow
+
+## We are currently working on more things to implement to our readme!
